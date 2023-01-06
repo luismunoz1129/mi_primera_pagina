@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/luismunoz1129/mi_primera_pagina/issues"
   },
-  "homepage": "https://github.com/luismunoz1129/mi_primera_pagina#readme"
+  "homepage": "https://github.com/luismunoz1129/mi_primera_pagina#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
